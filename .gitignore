@@ -1,0 +1,23 @@
+# Model weights
+*.pt
+*.pth
+*.onnx
+
+# CCTV videos
+*.mp4
+*.mov
+*.avi
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env/
+
+# macOS
+.DS_Store
+
+# Generated results
+results/
+runs/
